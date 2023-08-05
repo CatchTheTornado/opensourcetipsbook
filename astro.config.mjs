@@ -12,6 +12,9 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'The Book',
+					items: [
+						{ label: 'Introduction', link: 'index' }
+					  ],					
 					autogenerate: { directory: 'chapters' },
 				},
 			],
