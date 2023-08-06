@@ -21,8 +21,8 @@ export default defineConfig({
 					items: [
 						{ label: 'Introduction', link: '/' },
 						{ label: 'Let it fly!', link: 'chapters/chapter1-let-it-fly' },				
-						{ label: 'Marketing tips', link: 'chapters/chapter2-marketing-tips' }
-
+						{ label: 'Marketing tips', link: 'chapters/chapter2-marketing-tips' },
+						{ label: 'Growth hacks', link: 'chapters/chapter3-growth-hacks' },
 					],					
 					autogenerate: { directory: 'chapters' },
 				},
