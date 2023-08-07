@@ -23,6 +23,11 @@ export default defineConfig({
 						{ label: 'Let it fly!', link: 'chapters/chapter1-let-it-fly' },				
 						{ label: 'Marketing tips', link: 'chapters/chapter2-marketing-tips' },
 						{ label: 'Growth hacks', link: 'chapters/chapter3-growth-hacks' },
+						{ label: 'Project governance', link: 'chapters/chapter4-governing-opensource'},
+						{ label: 'Investing in Open Source', link: 'chapters/chapter5-investing-in-opensource'},
+						{ label: 'Spinning off a product', link: 'chapters/chapter6-spinning-off'},
+						{ label: 'More resources', link: 'chapters/more-resources'},
+						{ label: 'Make it happen!', link: 'chapters/make-it-happen'}
 					],					
 					autogenerate: { directory: 'chapters' },
 				},
