@@ -5,8 +5,8 @@ Welcome to **Open Source: Tips and Tricks book**  - a comprehensive guide intend
 This is an open source book on open source so everyone is invited to:
 <table>
     <tr>
-        <td valign="top" width="50%">📣 Give us some feedback by **[creating a Github issue](https://github.com/CatchTheTornado/opensourcetipsbook/issues)** in the book's repository</td>
-        <td valign="top" width="50%">👩‍💻 Contribute to the book by **[creating a pull request](https://github.com/CatchTheTornado/opensourcetipsbook/pulls)** with any kind of improvements, amendments or new content.</td>
+        <td valign="top" width="50%">📣 Give us some feedback by [creating a Github issue](https://github.com/CatchTheTornado/opensourcetipsbook/issues) in the book's repository</td>
+        <td valign="top" width="50%">👩‍💻 Contribute to the book by [creating a pull request](https://github.com/CatchTheTornado/opensourcetipsbook/pulls) with any kind of improvements, amendments or new content.</td>
     </tr>
 </table>
 
