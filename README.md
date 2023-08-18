@@ -1,4 +1,4 @@
-# Open Source Tips & Trips Book
+# Open Source Tips & Tricks Book
 
 Welcome to **Open Source: Tips and Tricks book**  - a comprehensive guide intended to empower both **startups and established enterprises** to successfully navigate the world of open source software and **build a successfull OSS product**.
 
