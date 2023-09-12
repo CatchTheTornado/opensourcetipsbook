@@ -46,3 +46,30 @@ Everyone is invited to contribute, comment or provide a feedback to this book vi
 ## Authors
 
 This book is a community effort started by Piotr Karwatka, an open source enthusiast, developer and [co-founder and investor at Catch The Tornado](https://www.catchthetornado.com/portfolio). 
+
+## How to contribute
+
+This book is published in the form of a Node.js (Astro) webpage. If you're thinking of adding or tweaking some content you might want to first check if there's already an [issue for it](https://github.com/CatchTheTornado/opensourcetipsbook/issues) (If not create one to avoid the duplication of your work) or maybe even a ready [pull request](https://github.com/CatchTheTornado/opensourcetipsbook/pulls) waiting to be merged. 
+
+Then - the best way to contribute is one of the following two. 
+
+### Install and test the website locally
+
+0. Make sure you have `git` and `node` (14.x) installed
+1. Clone the repository locally with: `mkdir opensourcetipsbook; cd opensourcetipsbook` and then `git clone https://github.com/CatchTheTornado/opensourcetipsbook.git .`
+2. Install all the dependencies with `npm install`
+3. Start the dev preview: `npm run dev`
+4. Edit the files inside the `src/content/docs` folder.
+5. To include a new chapter in the ToC please edit the [`astro.config.mjs`](https://github.com/CatchTheTornado/opensourcetipsbook/blob/4828a42339b7f0a9f02c9419a4a70472cb02df74/astro.config.mjs#L21)
+
+### Just edit the `*.mdx` files
+
+If you don't want to mess up your environment with a local instance of the webpage just edit the files online, using the Github editor, create a Pull Request, and use the Vercel preview.
+
+0. Create the fork of this repo if you like (preferred).
+1. Open the [`src/content/docs/chapters`](https://github.com/CatchTheTornado/opensourcetipsbook/tree/main/src/content/docs/chapters) folder on GitHub and use the `Edit` or `Create new file option`
+2. If this is a new chapter you can include it in ToC by editing the [`astro.config.mjs`](https://github.com/CatchTheTornado/opensourcetipsbook/blob/4828a42339b7f0a9f02c9419a4a70472cb02df74/astro.config.mjs#L21) file
+3. Commit changes under a new branch and create a Pull Request.
+
+That's it! In case of any troubles don't hesitate to create a new issue with your questions.
+
