@@ -26,6 +26,7 @@ export default defineConfig({
 						{ label: 'Project governance', link: 'chapters/chapter4-governing-opensource'},
 						{ label: 'Investing in Open Source', link: 'chapters/chapter5-investing-in-opensource'},
 						{ label: 'Spinning off a product', link: 'chapters/chapter6-spinning-off'},
+						{ label: 'Road to commercialization', link: 'chapters/chapter7-road-to-commercialization'},
 						{ label: 'More resources', link: 'chapters/more-resources'},
 						{ label: 'Make it happen!', link: 'chapters/make-it-happen'}
 					],					
