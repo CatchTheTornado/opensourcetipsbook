@@ -47,6 +47,9 @@ Everyone is invited to contribute, comment or provide a feedback to this book vi
 
 This book is a community effort started by Piotr Karwatka, an open source enthusiast, developer and [co-founder and investor at Catch The Tornado](https://www.catchthetornado.com/portfolio). 
 
+Big thanks to all contributors:
+- Filip Rakowski - co-founder of [Vue Storefront](https://vuestorefront.io) added a great chapter on Commercialization
+
 ## How to contribute
 
 This book is published in the form of a Node.js (Astro) webpage. If you're thinking of adding or tweaking some content you might want to first check if there's already an [issue for it](https://github.com/CatchTheTornado/opensourcetipsbook/issues) (If not create one to avoid the duplication of your work) or maybe even a ready [pull request](https://github.com/CatchTheTornado/opensourcetipsbook/pulls) waiting to be merged. 
